@@ -1,22 +1,16 @@
-visualheart.task8
-=================
+# Earthquake Project: Task 8
 
-Group 8 for Stat 157, Hong Shon, Christina Ho, Sung Hoon Choi, Jinsoo Lee, HyungKyu Chang 
-
-Used some of the other groups pages as reference! Thanks you guys: 
-https://github.com/stat157/background/issues/13
-https://github.com/wliang88/Earthquake-Curators/blob/master/README.md
 
 # Members
 
-Hong Shon @tzenarr - Presenter
-Christina Ho @chocoho - Operational Lead, Visualizer
-Sung Hoon Choi @shchoi - Visualizer
-Jinsoo Lee (aka Jason) @annyeongjs - Visualizer
-HyungKyu Chang @hkchang89 - Visualizer
+- Hong Shon @tzenarr - Presenter
+- Christina Ho @chocoho - Operational Lead, Visualizer
+- Sung Hoon Choi @shchoi - Visualizer
+- Jinsoo Lee (aka Jason) @annyeongjs - Visualizer
+- HyungKyu Chang @hkchang89 - Visualizer
 
 
-# OVERALL TASK - 8
+# Overall Task - 8
 **Create Visual for ETAS and Alarm Data in Report** 
 - Understand the parameters of the model
 - What are our axes
@@ -54,7 +48,7 @@ Time bound
 - By Monday 11:59PM: post SMART goals; have an understanding of how our group fits into the big picture; get into contact with the other groups 
 - Most of our timeline is dependent on the timelines of the other groups (such as the analyzers)
 
-===============================
+
 # ROADBLOCKS
 
 - Difficulty in communicating with others 
