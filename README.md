@@ -1,7 +1,7 @@
 # Earthquake Project: Task 8
 
 
-# Members
+## Members
 
 <table border="0">
 <tr>
@@ -38,6 +38,7 @@
 
 
 ### Overall Task - 8
+___
 **Create Visual for ETAS and Alarm Data in Report** 
 - Understand the parameters of the model
 - What are our axes
@@ -48,7 +49,7 @@
 - How do we determine the fit between the lines in the plot?
 
 
-# S.M.A.R.T. Goals
+## S.M.A.R.T. Goals
 
 Specific
 - Create graph outputs for ETAS and Alarm Data based on the data provided by the analyzers
@@ -76,7 +77,7 @@ Time bound
 - Most of our timeline is dependent on the timelines of the other groups (such as the analyzers)
 
 
-# ROADBLOCKS
+## ROADBLOCKS
 
 - Difficulty in communicating with others 
  - To solve this, we tried contacting other groups using Github, Facebook, and office hours
