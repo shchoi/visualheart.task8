@@ -16,11 +16,11 @@
 </tr>
 <tr>
 <td>Christina Ho</td>
-<td>Visualizer, Operational Lead</td>
+<td>Visualizer/ Operational Lead</td>
 <td>@chocoho</td>
 </tr>
 <tr>
-<td>Jinsoo Lee (Jason)/td>
+<td>Jinsoo Lee (Jason)</td>
 <td>Visualizer</td>
 <td>@annyoengjs</td>
 </tr>
