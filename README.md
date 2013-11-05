@@ -3,14 +3,41 @@
 
 # Members
 
-- Hong Shon @tzenarr - Presenter
-- Christina Ho @chocoho - Operational Lead, Visualizer
-- Sung Hoon Choi @shchoi - Visualizer
-- Jinsoo Lee (aka Jason) @annyeongjs - Visualizer
-- HyungKyu Chang @hkchang89 - Visualizer
+<table border="0">
+<tr>
+<th>Name</th>
+<th>Role</th>
+<th>GitHub Id</th>
+</tr>
+<tr>
+<td>Hong Shon</td>
+<td>Presenter</td>
+<td>@tzenarr</td>
+</tr>
+<tr>
+<td>Christina Ho</td>
+<td>Visualizer, Operational Lead</td>
+<td>@chocoho</td>
+</tr>
+<tr>
+<td>Jinsoo Lee (Jason)/td>
+<td>Visualizer</td>
+<td>@annyoengjs</td>
+</tr>
+<tr>
+<td>Hyungkyu Chang</td>
+<td>Visualizer</td>
+<td>@hkchang89</td>
+</tr>
+<tr>
+<td>Sung Hoon Choi</td>
+<td>Visualizer</td>
+<td>@shchoi</td>
+</tr>
+</table>
 
 
-# Overall Task - 8
+### Overall Task - 8
 **Create Visual for ETAS and Alarm Data in Report** 
 - Understand the parameters of the model
 - What are our axes
