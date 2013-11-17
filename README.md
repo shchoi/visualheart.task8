@@ -34,6 +34,10 @@
 <td>Visualizer</td>
 <td>@shchoi</td>
 </tr>
+<tr>
+<td>Alisha Agrawal</td>
+<td>Data Curator</td>
+<td>@alisha791</td>
 </table>
 
 
