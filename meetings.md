@@ -15,7 +15,7 @@
     - Talk to other analyzer and visualizer groups and decide with them what model has not been assigned yet
   - [**M**] Measurable:
     - Jinsoo is goind to be in charge of reading the paper and summarizing the main points with the rest of the group.
-    - Hong, our presenter, will be in charge of keeping in touch with the other groups, primarily our analyzer/curator groups. He will be in charge of coordinating a meeting with the analyzers.
+    - Alisha and Jie will be in charge of keeping in touch with the other groups, primarily our analyzer/curator groups. He will be in charge of coordinating a meeting with the analyzers.
   - [**A**] Attainable:
     - We are breaking up the tasks into smaller parts so everyone in the group is making a contribution
   - [**R**] Relevant: 
