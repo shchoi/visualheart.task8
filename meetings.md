@@ -32,3 +32,9 @@
 - **New Group Members added**
   - Qi Zhang
   - Kuanwei Tang
+
+- **Discuss Goals for the week**
+  - Plan on reading Quakers gitHUb repository and understanding their code
+  - Go to office hours this weekend and talk to Aaron about our next steps.
+  - Make a Google Calendar so we can coordinate meeting times since our group now consists of 9 members
+
