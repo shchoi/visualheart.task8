@@ -30,5 +30,5 @@
 ###November 19, 2013
 
 - **New Group Members added**
-  _ Qi Zhang
-  _ Kuanwei Tang
+  - Qi Zhang
+  - Kuanwei Tang
