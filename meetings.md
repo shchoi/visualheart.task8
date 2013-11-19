@@ -37,5 +37,6 @@
   - Plan on reading Quakers gitHUb repository and understanding their code
   - Go to office hours this weekend and talk to Aaron about our next steps.
   - Make a Google Calendar so we can coordinate meeting times since our group now consists of 9 members
-  - Jie, Alisha, Christina, and Qi are planning on looking at other visualizer group's code and seeing how we can improve the existing graphs
+  - Jie, Alisha, Kuanwei, and Hyunkyu are planning on looking at other visualizer group's code and seeing how we can improve the existing graphs.
+  - Qi and Christina have some programming experience so they will write the code to modify the graphs. 
 
