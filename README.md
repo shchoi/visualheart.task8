@@ -38,6 +38,18 @@
 <td>Alisha Agrawal</td>
 <td>Data Curator</td>
 <td>@alisha791</td>
+<tr>
+<td>Jie Zhang</td>
+<td>Data Curator</td>
+<td>@jzhang980</td>
+<tr>
+<td>Qi Zhang</td>
+<td>Analyzer</td>
+<td>@qi-zhang</td>
+<tr>
+<td>Kuanwei Tang</td>
+<td>Data Curator</td>
+<td>@</td>
 </table>
 
 
