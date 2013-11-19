@@ -26,3 +26,9 @@
     - These are small goals so we could complete them within a week
     - We are contacting other visualizers and analyzers today
     - We will coordinate a meeting with them and possible Aaron this week
+
+###November 19, 2013
+
+- **New Group Members added**
+  _ Qi Zhang
+  _ Kuanwei Tang
