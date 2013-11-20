@@ -11,4 +11,18 @@
     -show error:Error in read.table(file = file, header = header, sep = sep, quote = quote,  : 
   duplicate 'row.names' are not allowed
   
--
+-[socal.txt](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/socal.txt)
+
+  -data has different columns in each row.l First row has 2 column, others has three. 
+  
+  -data couldn't run because that.
+  
+-[ecdf.R](https://github.com/SunnySunnia/TheQuakers/blob/master/ECDF/ecdf.R)
+
+  -Run all the code, shows error at last second line: Error in ecdf(test) : 'x' must have 1 or more non-missing valuesal
+  
+  -Run all the code, Now plots show up.
+
+-[mda_test.r] (https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/mda_test.r)
+   
+   -There are several errors and also no plots show up.
