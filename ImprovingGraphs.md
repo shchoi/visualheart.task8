@@ -36,7 +36,7 @@
     - The second graph that is plotted doesn't have any titles and I'm not sure what it is trying to show. A legend needs to be added
     - A legend needs to be added to the "Training Set error Diagrams" plot
 
-#####Quakers-EarthquakeSuccessors.R
+#####[Quakers-EarthquakeSuccessors.R](https://github.com/SunnySunnia/TheQuakers/blob/master/Successors/Quakers-EarthquakeSuccessors.R)
   - **Code Functionality**
     - I had a little trouble downloading the DataFrame but once I did, the code ran smoothly  
   - **What to Improve**
