@@ -1,3 +1,18 @@
+###Class: November 19, 2013
+
+- **New Group Members added**
+  - Qi Zhang
+  - Kuanwei Tang
+
+- **Discuss Goals for the week**
+  - Plan on reading Quakers gitHUb repository and understanding their code
+  - Go to office hours this weekend and talk to Aaron about our next steps.
+  - Make a Google Calendar so we can coordinate meeting times since our group now consists of 9 members
+  - Jie, Alisha, Kuanwei, and Hyungkyu are planning on looking at other visualizer group's code and seeing how we can improve the existing graphs.
+  - Qi and Christina have some programming experience so they will write the code to modify the graphs. 
+
+
+
 ###Meeting: November 16, 2013
 
 - **Met at Cafe Milano at 4 pm**
@@ -27,17 +42,3 @@
     - These are small goals so we could complete them within a week
     - We are contacting other visualizers and analyzers today
     - We will coordinate a meeting with them and possible Aaron this week
-
-###Class: November 19, 2013
-
-- **New Group Members added**
-  - Qi Zhang
-  - Kuanwei Tang
-
-- **Discuss Goals for the week**
-  - Plan on reading Quakers gitHUb repository and understanding their code
-  - Go to office hours this weekend and talk to Aaron about our next steps.
-  - Make a Google Calendar so we can coordinate meeting times since our group now consists of 9 members
-  - Jie, Alisha, Kuanwei, and Hyungkyu are planning on looking at other visualizer group's code and seeing how we can improve the existing graphs.
-  - Qi and Christina have some programming experience so they will write the code to modify the graphs. 
-
