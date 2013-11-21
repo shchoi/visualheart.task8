@@ -1,3 +1,21 @@
+###Class: November 21, 2013
+
+- **Goals by next Tuesday**
+  - group purpose right now: editors for Quakers code involving graph production
+  - presentation on Tuesday
+    - graph/code improvements 
+  - Alisha will create a folder on github repo for 
+    - improving graphs
+    - files
+
+- **Discuss Goals for the week**
+  - Plan on reading Quakers gitHUb repository and understanding their code
+  - Go to office hours this weekend and talk to Aaron about our next steps.
+  - Jie, Alisha, Kuanwei, and Hyungkyu are planning on looking at other visualizer group's code and seeing how we can improve the existing graphs.
+  - Make a Google Calendar so we can coordinate meeting times since our group now consists of 9 members
+  - Qi and Christina have some programming experience so they will write the code to modify the graphs. 
+
+
 ###Class: November 19, 2013
 
 - **New Group Members added**
