@@ -11,7 +11,7 @@
 #####etas-training.R
   - **Code Functionality**
     - I had to make sure to have the right file name for "socal.txt" and "VS-functions.R" before I could run the code but once I did, the code ran smoothly. 
-    - **What to Improve**
+  - **What to Improve**
       - Better documentation about what csv files you have to download to your computer before running the code. Is there a way to quickly download all the necessary csv files?
       - The graph is already pretty informative and easy to read. Maybe important k-values could be indicated on the graph.
       - For the graph to be descriptive on its own, I think the x and y labels should specify in words what v and t stand for. 
