@@ -1,4 +1,5 @@
-# Earthquake Project: Task 8
+# Earthquake Project: Group <3
+(Previously Task 8)
 
 
 ## Members
@@ -53,7 +54,6 @@
 </table>
 
 
-### Overall Task for Group <3 (Previously Group 8)
-
+### Overall Task
 - Currently proofreaders + editors for graphs
 - Currently working with Quakers
