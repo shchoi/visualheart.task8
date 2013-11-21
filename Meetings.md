@@ -6,6 +6,7 @@
   - Christina Ho
   - JinSoo Lee
   - Sung Hoon Choi
+    - *Update* Hyungkyu Chang excused
 - **Discuss SMART Groups**
 - **Fill in Google Spreadsheet**
 
