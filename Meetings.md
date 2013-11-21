@@ -65,9 +65,7 @@
 
 ###Meeting: Novemeber 9, 2013
 
-**Overall Task - 8**
-
--**Create Visual for ETAS and Alarm Data in Report** 
+**Overall Task - 8** - **Create Visual for ETAS and Alarm Data in Report** 
   - Understand the parameters of the model
   - What are our axes
   - PDF versus CDF
