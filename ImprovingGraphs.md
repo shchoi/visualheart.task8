@@ -1,6 +1,6 @@
-####The Quakers
+###The Quakers
 
-#####ecdf.R
+#####[ecdf.R](https://github.com/SunnySunnia/TheQuakers/blob/master/ECDF/ecdf.R)
   - **Code Functionality**
     - It had trouble opening the 250.csv file but once I figured that out, the code ran smoothly
   - **What to Improve**
@@ -8,7 +8,7 @@
     - Does the x-axis represent 100 year intervals? If so, what is the starting year?
     - The x-axis should be shifted so that it starts at 0 instead of -100
 
-#####etas-training.R
+#####[etas-training.R](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/etas-training.R)
   - **Code Functionality**
     - I had to make sure to have the right file name for "socal.txt" and "VS-functions.R" before I could run the code but once I did, the code ran smoothly. 
   - **What to Improve**
@@ -16,7 +16,7 @@
       - The graph is already pretty informative and easy to read. Maybe important k-values could be indicated on the graph.
       - For the graph to be descriptive on its own, I think the x and y labels should specify in words what v and t stand for. 
 
-#####mda_test.r
+#####[mda_test.r](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/mda_test.r)
   - **Code Functionality**
     - runs smoothly but slow
   - **What to Improve**
@@ -28,7 +28,7 @@
     - If there are any interesting/informative points on the graphs, it would be helpful if they were indicated
       -k values, outliers, etc. 
 
-#####Quakers-MDAtest250.R
+#####[Quakers-MDAtest250.R](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/Quakers-MDAtest250.R)
   - **Code Functionality**
     - I got an error at first because I had to install.packages("sfsmisc")
     - otherwise, code runs smoothly
@@ -45,6 +45,6 @@
     - The legend is just numbers 1-5. I'm not sure what these numbers correspond to.
   
 
-####Hashtag
+###Hashtag
 
-####Dollar Sign
+###Dollar Sign
