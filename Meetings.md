@@ -15,7 +15,7 @@
     - Read Luen Paper in depth
     - Talk to other analyzer and visualizer groups and decide with them what model has not been assigned yet
   - [**M**] Measurable:
-    - Jinsoo is goind to be in charge of reading the paper and summarizing the main points with the rest of the group.
+    - Jinsoo + Sung is going to be in charge of reading the paper and summarizing the main points with the rest of the group.
     - Alisha and Jie will be in charge of keeping in touch with the other groups, primarily our analyzer/curator groups. He will be in charge of coordinating a meeting with the analyzers.
   - [**A**] Attainable:
     - We are breaking up the tasks into smaller parts so everyone in the group is making a contribution
@@ -28,7 +28,7 @@
     - We are contacting other visualizers and analyzers today
     - We will coordinate a meeting with them and possible Aaron this week
 
-###November 19, 2013
+###Class: November 19, 2013
 
 - **New Group Members added**
   - Qi Zhang
@@ -38,6 +38,6 @@
   - Plan on reading Quakers gitHUb repository and understanding their code
   - Go to office hours this weekend and talk to Aaron about our next steps.
   - Make a Google Calendar so we can coordinate meeting times since our group now consists of 9 members
-  - Jie, Alisha, Kuanwei, and Hyunkyu are planning on looking at other visualizer group's code and seeing how we can improve the existing graphs.
+  - Jie, Alisha, Kuanwei, and Hyungkyu are planning on looking at other visualizer group's code and seeing how we can improve the existing graphs.
   - Qi and Christina have some programming experience so they will write the code to modify the graphs. 
 
