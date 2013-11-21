@@ -38,11 +38,15 @@
 
 #####[Quakers-EarthquakeSuccessors.R](https://github.com/SunnySunnia/TheQuakers/blob/master/Successors/Quakers-EarthquakeSuccessors.R)
   - **Code Functionality**
-    - I had a little trouble downloading the DataFrame but once I did, the code ran smoothly  
+    - I had a little trouble downloading the DataFrame but once I did, the code ran smoothly
+    - DataFrame name was wrong
   - **What to Improve**
     - The graphs are colorful and contain a lot of data
     - I am having a little trouble figuring out what the graph is showing. 
     - The legend is just numbers 1-5. I'm not sure what these numbers correspond to.
+  - **Code Readability**
+    - Should add comments and headers to the code; what it does and what to expect as an output
+    - Should add estimated waiting times
   
 
 ###Hashtag
