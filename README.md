@@ -48,9 +48,9 @@
 <td>Analyzer</td>
 <td>@qi-zhang</td>
 <tr>
-<td>Kuanwei Tang</td>
+<td>Kuanwei Tseng</td>
 <td>Data Curator</td>
-<td>@</td>
+<td>@kt0009</td>
 </table>
 
 
