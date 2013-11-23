@@ -4,9 +4,17 @@
   - **Code Functionality**
     - It had trouble opening the 250.csv file but once I figured that out, the code ran smoothly
   - **What to Improve**
-    - The plots need an x axis label
-    - Does the x-axis represent 100 year intervals? If so, what is the starting year?
-    - The x-axis should be shifted so that it starts at 0 instead of -100
+    - <del>The plots need an x axis label
+    - <del>Does the x-axis represent 100 year intervals? If so, what is the starting year?
+    - <del>The x-axis should be shifted so that it starts at 0 instead of -100
+  - **Improvements** (by Qi Zhang)
+
+    I improved ecdf.R and made it more user-friendly. The improvement includes
+    - Added x axis label in terms of date. This essentially addresses all 3 items mentioned above.
+    - Added horizontal grids to make it easier to read.
+    - Some important settings are hard coded in the original code, e.g. boundary of magnitude interval, location of vertical grid etc. So it works fine with 250.csv but not the new records which contain 6598 events from 1932 to 2013. The new code will setup these settings adaptively to make it work with data of any size.
+    - Wrap up the code as a function, the only argument required is the data frame loaded from data file. I verified the code with both the 250.csv and the new records of events from 1932 to 2013.
+    - New code and plots can be found in the ECDF_IMPROVED folder.
 
 #####[etas-training.R](https://github.com/SunnySunnia/TheQuakers/blob/master/MDA/etas-training.R)
   - **Code Functionality**
